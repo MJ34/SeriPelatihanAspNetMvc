@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeriPelatihanAspNetMvc", "SeriPelatihanAspNetMvc\SeriPelatihanAspNetMvc.csproj", "{DC98B5FF-AA36-4A1F-A4A1-0964E8433380}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeriMvcAsp", "SeriMvcAsp\SeriMvcAsp.csproj", "{9FE7CE36-DE8B-4E4A-B50F-FE762EB1BD64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DC98B5FF-AA36-4A1F-A4A1-0964E8433380}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC98B5FF-AA36-4A1F-A4A1-0964E8433380}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC98B5FF-AA36-4A1F-A4A1-0964E8433380}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FE7CE36-DE8B-4E4A-B50F-FE762EB1BD64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE7CE36-DE8B-4E4A-B50F-FE762EB1BD64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE7CE36-DE8B-4E4A-B50F-FE762EB1BD64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE7CE36-DE8B-4E4A-B50F-FE762EB1BD64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
